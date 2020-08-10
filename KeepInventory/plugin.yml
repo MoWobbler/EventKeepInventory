@@ -1,0 +1,11 @@
+version: 1.0
+name: KeepInventory
+main: com.mo.KeepInventory.Main
+
+
+description: fun test plugin wow
+
+
+commands:
+  eventkeepinventory:
+    description: Enables/disables keep inventory
